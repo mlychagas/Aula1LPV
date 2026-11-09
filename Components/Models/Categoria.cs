@@ -5,6 +5,7 @@ namespace AulaApp1.Components.Models
     {
         [Required(ErrorMessage = "O nome é obrigatório")]
         [MinLength(3, ErrorMessage = "O nome deve ter pelo menos 3 letras")]
+        [RegularExpression(@"^[^0-9]*",ErrorMessage = "O nome deve conter apenas letras")]
         public string Nome { get; set; } = "";
     
         [Range(0, 100000, ErrorMessage = "Permitido de 0 a 100.000")]
