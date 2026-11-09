@@ -1,0 +1,13 @@
+﻿@page "/contador"
+
+<h3>Contador</h3>
+<h4>Quantidade de Cliques no botão:@numero</h4>
+<button class="btn btn-primary" @onclick="Adicionar">Clique Aqui!</button>
+
+@code {
+    private int numero = 0;
+    private void Adicionar()
+    {
+        numero++;
+    }
+}

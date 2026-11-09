@@ -1,0 +1,80 @@
+﻿@using AulaApp1.Components.Models
+@page "/produtos"
+
+<h2>Produtos</h2>
+
+<EditForm EditContext="editContext">
+    <DataAnnotationsValidator/>
+    <ValidationSummary/>
+    <div class="mb-3">
+        <label>Nome:</label>
+        <input class="form-control"  @bind="novoProduto.Nome" />
+        <ValidationMessage For="() => novoProduto.Nome"/>
+    </div>
+    <div>
+        <label>Preço:</label>
+        <input class="form-control" type="number" @bind="novoProduto.Preco" />
+        <ValidationMessage For="() => novoProduto.Preco"/>
+    </div>
+    <div>
+        <label>Quantidade:</label>
+        <input class="form-control" type="number" @bind="novoProduto.Quantidade" />
+        <ValidationMessage For="() => novoProduto.Quantidade"/>
+    </div>
+    
+    <div>
+        <button type="button" class="btn btn-primary" @onclick="AdicionarProdutos" >Adicionar Produtos</button>
+    </div>
+</EditForm>
+<h4>Produtos cadastrados</h4>
+@if (produtos.Count == 0)
+{
+    <p>Nenhum produto</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Quantidade</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var p in produtos)
+        {
+            <tr>
+                <td>@p.Nome</td>
+                <td>R$ @p.Preco</td>
+                <td>@p.Quantidade un</td>
+            </tr>
+            
+        }
+        </tbody>
+    </table>
+}
+
+@code {
+    private Produto novoProduto = new();
+    
+    private EditContext editContext = default!;
+
+    protected override void OnInitialized()
+    {
+        editContext = new EditContext(novoProduto);
+    }
+
+    private List<Produto> produtos = new();
+    private void AdicionarProdutos()
+    {
+        if (!editContext.Validate())
+        {
+            return;
+        }
+        produtos.Add(novoProduto);
+        
+        novoProduto = new Produto(); 
+        editContext = new EditContext(novoProduto);
+    }
+}

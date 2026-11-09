@@ -1,0 +1,171 @@
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\bin\Debug\net10.0\appsettings.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\bin\Debug\net10.0\AulaApp1.staticwebassets.runtime.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\bin\Debug\net10.0\AulaApp1.staticwebassets.endpoints.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\bin\Debug\net10.0\AulaApp1.exe
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\bin\Debug\net10.0\AulaApp1.deps.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\bin\Debug\net10.0\AulaApp1.runtimeconfig.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\bin\Debug\net10.0\AulaApp1.dll
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\bin\Debug\net10.0\AulaApp1.pdb
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\AulaApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\AulaApp1.AssemblyInfoInputs.cache
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\AulaApp1.AssemblyInfo.cs
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\AulaApp1.csproj.CoreCompileInputs.cache
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\AulaApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\scopedcss\bundle\AulaApp1.styles.css
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\scopedcss\projectbundle\AulaApp1.bundle.scp.css
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\eu99nhnhuh-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\mfelkmof3b-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\r6qrldq0rx-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\3fm7hkniqc-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\fn9ycfr24g-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\13ft3ih1h7-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\yjgk1bthj7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\9avrz4xwyz-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\uwso0k5p07-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\lb8uqps35q-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\42yhbil6iu-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\3een9ydw0r-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\nox9i5ocre-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\5i347bked4-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\l51fnl5yel-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\djqhvuftde-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\lse9d6sppa-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\imsnvbb5ij-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\bsyco5utl9-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\p5cxer2xcf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\048ck0rtee-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\q20zp9yxnv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\z8igigbn9w-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\416g01m8rf-{0}-06098lyss8-06098lyss8.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\6thm0l4jeq-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\s8pjmwlcmv-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\q7ug4ef6jn-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\04es95uu6k-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\7rlvkjwpi7-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\2oidw2ivvo-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\btzc8xqele-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\yc2qbkli5z-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\vg10c6zmmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\zg18s1e9p1-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\eoequdc1zv-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\itg0yfeqhc-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\4xm7h7gc05-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\oo221qcpl8-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\34xlsrhofc-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\m5pkh5s7bw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\p3kv4blf1y-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\hy6vtfluux-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\pokpqc2fpr-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\e33l816eqm-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\86lt123ib3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\uj7a62kuqg-{0}-abdmv1u4y3-abdmv1u4y3.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\d9zxyt9d6u-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\pvjh7ouy7j-{0}-wfr2hj6447-wfr2hj6447.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\pyshidep8g-{0}-t2bo3xpd2s-t2bo3xpd2s.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\compressed\xtyyuptaq7-{0}-t2bo3xpd2s-t2bo3xpd2s.gz
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\AulaApp1.dll
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\refint\AulaApp1.dll
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\AulaApp1.pdb
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\AulaApp1.genruntimeconfig.cache
+C:\Users\2024102060008\Documents\VisualStudio\aula1\AulaApp1\obj\Debug\net10.0\ref\AulaApp1.dll
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\bin\Debug\net10.0\appsettings.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\bin\Debug\net10.0\AulaApp1.staticwebassets.runtime.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\bin\Debug\net10.0\AulaApp1.staticwebassets.endpoints.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\bin\Debug\net10.0\AulaApp1.exe
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\bin\Debug\net10.0\AulaApp1.deps.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\bin\Debug\net10.0\AulaApp1.runtimeconfig.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\bin\Debug\net10.0\AulaApp1.dll
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\bin\Debug\net10.0\AulaApp1.pdb
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\AulaApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\AulaApp1.AssemblyInfoInputs.cache
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\AulaApp1.AssemblyInfo.cs
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\AulaApp1.csproj.CoreCompileInputs.cache
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\AulaApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\scopedcss\bundle\AulaApp1.styles.css
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\scopedcss\projectbundle\AulaApp1.bundle.scp.css
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\eu99nhnhuh-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\mfelkmof3b-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\r6qrldq0rx-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\3fm7hkniqc-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\fn9ycfr24g-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\13ft3ih1h7-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\yjgk1bthj7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\9avrz4xwyz-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\uwso0k5p07-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\lb8uqps35q-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\42yhbil6iu-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\3een9ydw0r-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\nox9i5ocre-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\5i347bked4-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\l51fnl5yel-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\djqhvuftde-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\lse9d6sppa-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\imsnvbb5ij-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\bsyco5utl9-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\p5cxer2xcf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\048ck0rtee-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\q20zp9yxnv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\z8igigbn9w-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\416g01m8rf-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\6thm0l4jeq-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\s8pjmwlcmv-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\q7ug4ef6jn-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\04es95uu6k-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\7rlvkjwpi7-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\2oidw2ivvo-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\btzc8xqele-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\yc2qbkli5z-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\vg10c6zmmt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\zg18s1e9p1-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\eoequdc1zv-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\itg0yfeqhc-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\4xm7h7gc05-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\oo221qcpl8-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\34xlsrhofc-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\m5pkh5s7bw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\p3kv4blf1y-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\hy6vtfluux-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\pokpqc2fpr-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\e33l816eqm-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\86lt123ib3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\uj7a62kuqg-{0}-abdmv1u4y3-abdmv1u4y3.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\d9zxyt9d6u-{0}-xmryko9e6j-xmryko9e6j.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\pvjh7ouy7j-{0}-7d17r9czpp-7d17r9czpp.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\pyshidep8g-{0}-t2bo3xpd2s-t2bo3xpd2s.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\compressed\xtyyuptaq7-{0}-t2bo3xpd2s-t2bo3xpd2s.gz
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\AulaApp1.dll
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\refint\AulaApp1.dll
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\AulaApp1.pdb
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\AulaApp1.genruntimeconfig.cache
+C:\Users\ep509\OneDrive - ifro.edu.br\6periodo\LPV\AulaApp1\obj\Debug\net10.0\ref\AulaApp1.dll

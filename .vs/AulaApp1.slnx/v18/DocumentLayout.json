@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024102060008\\Documents\\VisualStudio\\aula1\\AulaApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44DD2231-8709-42C5-813F-CB9A61276BB9}|AulaApp1.csproj|c:\\users\\2024102060008\\documents\\visualstudio\\aula1\\aulaapp1\\components\\pages\\produtos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44DD2231-8709-42C5-813F-CB9A61276BB9}|AulaApp1.csproj|solutionrelative:components\\pages\\produtos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DD2231-8709-42C5-813F-CB9A61276BB9}|AulaApp1.csproj|c:\\users\\2024102060008\\documents\\visualstudio\\aula1\\aulaapp1\\components\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DD2231-8709-42C5-813F-CB9A61276BB9}|AulaApp1.csproj|solutionrelative:components\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produtos.razor",
+              "DocumentMoniker": "C:\\Users\\2024102060008\\Documents\\VisualStudio\\aula1\\AulaApp1\\Components\\Pages\\Produtos.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Produtos.razor",
+              "ToolTip": "C:\\Users\\2024102060008\\Documents\\VisualStudio\\aula1\\AulaApp1\\Components\\Pages\\Produtos.razor",
+              "RelativeToolTip": "Components\\Pages\\Produtos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T00:27:29.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060008\\Documents\\VisualStudio\\aula1\\AulaApp1\\Components\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Components\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\2024102060008\\Documents\\VisualStudio\\aula1\\AulaApp1\\Components\\Models\\Produto.cs",
+              "RelativeToolTip": "Components\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T00:20:38.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
