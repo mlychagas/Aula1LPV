@@ -29,37 +29,37 @@
     </div>
 </div>
 
-<div class="col-md-4">
+<div class="col-md-8">
     <h4>Produtos cadastrados</h4>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Preço</th>
+                <th>Quantidade</th>
+            </tr>
+        </thead>
+        <tbody>
     @if (produtos.Count == 0)
     {
-        <p>Nenhum produto</p>
+        <Aviso/>
     }
     else
     {
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>Nome</th>
-                    <th>Preço</th>
-                    <th>Quantidade</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var p in produtos)
-                {
-                    <tr>
-                        <td>@p.Nome</td>
-                        <td>R$ @p.Preco</td>
-                        <td>@p.Quantidade un</td>
-                    </tr>
+        @foreach (var p in produtos)
+        {
+            <tr>
+                <td>@p.Nome</td>
+                <td>R$ @p.Preco</td>
+                <td>@p.Quantidade un</td>
+            </tr>
 
-                }
+        }
+    }
+
             </tbody>
         </table>
-    }
 </div>
-
 
 @code {
     private Produto novoProduto = new();
