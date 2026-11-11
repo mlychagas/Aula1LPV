@@ -3,72 +3,64 @@
 
 <h2>Categorias</h2>
 
-<EditForm EditContext="editContext">
+<EditForm Model="novaCategoria" OnValidSubmit="AdicionarCategorias" class="card-body">
     <DataAnnotationsValidator/>
-    <ValidationSummary/>
 
     <div class="mb-3">
         <label>Nome:</label>
-        <input class="form-control"  @bind="novaCategoria.Nome" />
+        <InputText class="form-control"  @bind-Value="novaCategoria.Nome" />
         <ValidationMessage For="() => novaCategoria.Nome"/>
     </div>
     <div>
         <label>Quantidade:</label>
-        <input class="form-control" type="number" @bind="novaCategoria.Quantidade" />
+        <InputNumber class="form-control" @bind-Value="novaCategoria.Quantidade" />
         <ValidationMessage For="() => novaCategoria.Quantidade"/>
     </div>
     <div>
-        <button type="button" class="btn btn-primary" @onclick="AdicionarCategorias" >Adicionar</button>
+        <button type="submit" class="btn btn-primary mt-3">Adicionar</button>
     </div>
 </EditForm>
 
-@if (categorias.Count == 0)
-{
-    <p>Nenhum categoria.</p>
-}
-else
-{
-    <table class="table">
-        <thead>
-        <tr>
-            <th>Nome</th>
-            <th>Quantidade</th>
-        </tr>
-        </thead>
-        <tbody>
-        @foreach (var c in categorias)
-        {
-            <tr>
-                <td>@c.Nome</td>
-                <td>@c.Quantidade un</td>
-            </tr>
+<div class="col-md-4">
+    @if (categorias.Count == 0)
+    {
+        <p>Nenhum categoria.</p>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Quantidade</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var c in categorias)
+                {
+                    <tr>
+                        <td>@c.Nome</td>
+                        <td>@c.Quantidade un</td>
+                    </tr>
 
-        }
-        </tbody>
-    </table>
+                }
+            </tbody>
+        </table>
 
-}
+    }
+</div>
+
 
 @code {
     private Categoria novaCategoria = new();
     
     private List<Categoria> categorias = new();
     
-    private EditContext editContext = default!;
-
-    protected override void OnInitialized()
-    {
-        editContext = new EditContext(novaCategoria);
-    }
     private void AdicionarCategorias()
     {
-        if (!editContext.Validate())
-        {
-            return;
-        }
         categorias.Add(novaCategoria);
-        novaCategoria = new Categoria();
-        editContext = new EditContext(novaCategoria);
+        novaCategoria = new ();
+        
     }
 
 }

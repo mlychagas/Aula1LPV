@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HaXEAQXuaFU=",
+  "dgSpecHash": "aUxCaWYF6uM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\6periodo\\LPV\\AulaApp1\\AulaApp1.csproj",
+  "projectFilePath": "C:\\Users\\2024102060008\\Documents\\LPV\\AulaApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ep509\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.14\\microsoft.aspnetcore.app.internal.assets.10.0.14.nupkg.sha512"
+    "C:\\Users\\2024102060008\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512"
   ],
   "logs": []
 }
